@@ -1,2 +1,2 @@
-# dap
-Something to test the git commands.
+# Hello, Github!
+A repository to test out the git commands.
